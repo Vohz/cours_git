@@ -1,2 +1,0 @@
-# cours_git
-# wtf
