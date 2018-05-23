@@ -294,5 +294,5 @@ git remote remove <nom depot>
 
 ### GENERER CLE SSH
 ```
-ssh-keygen -t rsa -C "guillaume.deiana@gddev.fr"
+ssh-keygen -t rsa -C "email"
 ```
